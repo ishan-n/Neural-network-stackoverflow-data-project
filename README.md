@@ -1,6 +1,6 @@
 # Neural-network-stackoverflow-data-project
 
-##Intent Detection through a Neural Network-Enabled Text Classifier
+## Intent Detection through a Neural Network-Enabled Text Classifier
 Contributors: Alexander Heger, Mugdha Khairnar, Ishan Nagrani
 
 ### Problem Statement
